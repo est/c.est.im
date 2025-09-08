@@ -1,0 +1,1 @@
+{"at":"2015-02-24T10:24:21Z","content":"To be honest, it is kind of lame to compare it to Shamir's scheme. The point of zfec is not secret sharing, but using it as forward error correction/Erasure codes. Read more here:  http://en.wikipedia.org/wiki/Erasure_code .","name":"Coder"}

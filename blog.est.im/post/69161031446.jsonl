@@ -1,0 +1,19 @@
+{"at":"2013-12-06T12:43:07Z","content":"不知道Java现在的效率和内存占用情况怎么样了？我对Java还停留在Java6……","name":"chenshaoju","link":"https://disqus.com/by/chenshaoju"}
+{"at":"2013-12-07T03:30:29Z","content":"Python 之父也搞不定大型項目啊，長見識了。","name":"御宅暴君","link":"https://disqus.com/by/acgtyrant"}
+{"at":"2013-12-08T05:53:56Z","content":"我学语言的顺序是 C-C++-python 。用 python 写小程序的确很舒服，但有的地方自由度太高（比如 member 都是 public）。没有参与过 python 的大型项目，对 py 的表现持保留意见","name":"Endle","link":"https://disqus.com/by/endle"}
+{"at":"2013-12-08T09:03:30Z","content":"8下~","name":"Yongtao Hu","link":"https://disqus.com/by/herohuyongtao"}
+{"at":"2013-12-08T10:50:34Z","content":"我个人觉得语言没有好坏，只是要在对应的场景选择好语言罢了。","name":"一行","link":"https://disqus.com/by/disqus_TPQ32Pn5BZ"}
+{"at":"2013-12-08T11:10:38Z","content":"7和8一直在加功能吧。。在我电脑上7比6的效能没有什么明显不同","name":"illusionwing","link":"https://disqus.com/by/illusionwing"}
+{"at":"2013-12-08T14:15:32Z","content":"额，前面加上下划线不就是私有方法么","name":"kai"}
+{"at":"2013-12-08T14:28:04Z","content":"但这只是编程规范，而不是强制要求\n如果有人调用了私有函数，解释器不会报错 ","name":"Endle","link":"https://disqus.com/by/endle"}
+{"at":"2013-12-08T17:48:15Z","content":"两个下划线不允许调用吧？？？","name":"Yuan"}
+{"at":"2013-12-09T02:15:08Z","content":"强类型语言确实有它的好处。那就是不言自明的类型。Dobule number , String username, 很自然，很清晰，有木有。","name":"cnmade","link":"https://disqus.com/by/zhifeng"}
+{"at":"2013-12-09T02:15:55Z","content":"Python的噩梦，还有强制缩进，what the fuck.","name":"cnmade","link":"https://disqus.com/by/zhifeng"}
+{"at":"2013-12-09T12:58:35Z","content":"谢谢指教，我对 python 了解的还太少，见笑了。也感谢 @cb9bcdd30842e74b052ce084a1e6a8d6:disqus 的提醒","name":"Endle","link":"https://disqus.com/by/endle"}
+{"at":"2013-12-10T03:03:29Z","content":"他那个IP是不是用的谷歌的代理啊，python和java是不一样的语言，你去比性能，比代码量有什么意义，有人喜欢穿羽绒服，有人喜欢穿棉袄，争着个有什么意义。","name":"神奇的棒子","link":"https://disqus.com/by/fengbin"}
+{"at":"2013-12-11T06:05:11Z","content":"接口上所谓的冗余其实是提高程序可维护性的关键。人脑容量有限，所以必须用电脑辅助人脑进行接口使用正确性的检查。强制要求程序员写强类型的接口也是一种强迫程序员对正确的设计进行思考的过程。结果导致的就是强类型语言可维护性更好。TDD不是更需要思考？","name":"askfor"}
+{"at":"2013-12-13T07:23:43Z","content":"很遗憾。喷错了。python也是强类型语言。","name":"est","link":"https://disqus.com/by/zxn0"}
+{"at":"2013-12-16T10:12:28Z","content":"光Nova就30+M了……","name":"MatheMatrix","link":"https://disqus.com/by/mathematrix"}
+{"at":"2014-09-28T08:12:52Z","content":"哈哈， 估计是被文章的'强类型' <==>'动态语言'误导了。 喷一个东西之前最好还是了解下比较好， 虽然我也不喜欢JAVA但是一般不敢喷， 因为只写过不到1W行的JAVA代码。不喜欢就不碰，但是不要因为不想碰就喷。","name":"Wis Zhou","link":"https://disqus.com/by/wiszhou"}
+{"at":"2015-02-01T04:54:36Z","content":"加下划线的成员虽然可以通过非常规方法获取，但是正常的方法是没法获取的。\n我觉得这个google所谓的这个java重构代码变少可能是有各种原因的。按正常语法，同样的功能python不可能更多代码的。要么是python版本是早期设计目标和功能不明确的时候一个个小功能堆叠起来的，后来重构的时候目标和功能很明确且冗余少。或者java可用的库比较多，python版本都是自己实现。所以说这么比看起来很打击python，其实我觉得可比较性比较低。","name":"snow"}
+{"at":"2015-02-12T10:57:41Z","content":"还是能调用的，方法前面加双下划线只是做了 name mangling.","name":"igody"}

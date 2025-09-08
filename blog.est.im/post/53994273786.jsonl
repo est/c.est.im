@@ -1,0 +1,2 @@
+{"at":"2013-10-29T11:35:43Z","content":"umfpack has been moved to suite-sparse, so in order to install umfpack you have to run:\nbrew tap homebrew/science\nbrew install suite-sparseFor more info, see:  https://github.com/titanous/homebrew-gnuradio/issues/39 ","name":"Jens Elofsson","link":"https://disqus.com/by/jenselofsson"}
+{"at":"2014-12-21T19:34:59Z","content":"and how to test airprobe?","name":"cristian"}

@@ -1,0 +1,1 @@
+{"at":"2012-10-31T15:19:03Z","content":"因为本来malloc就是对应到libc的动态链接库的， 首先搜索LD_PRELOAD了。。。","name":"linjunhalida","link":"https://disqus.com/by/linjunhalida"}

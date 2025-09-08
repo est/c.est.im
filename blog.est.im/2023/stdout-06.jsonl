@@ -1,0 +1,4 @@
+{"at":"2023-06-27T04:23:32Z","content":"「在不同的repo切换n个 ssh identity 身份」我的理解是repo和ssh identity是「一一對應」關係. 這麼理解對嗎？","name":"Sam"}
+{"at":"2023-10-18T00:18:49Z","content":"不对。。。。。ssh identity 是登录名，repo是你的源码。一份源码可以用多个 ssh identity 推到不同的远端；也有可能你多个远端都是同一个 ssh identity ；所以这里一对多，多对一，一对一，多对多都可以的。","name":"est","link":"https://disqus.com/by/zxn0"}
+{"at":"2023-12-02T08:07:44Z","content":"可以使用 includeIf 为不同目录下配置不同的用户，参考\n https://medium.com/@mrjink/using-includeif-to-manage-your-git-identities-bcc99447b04b ","name":"liuzhoou","link":"https://disqus.com/by/liuzhoou"}
+{"at":"2023-12-03T07:54:50Z","content":"Cool trick!","name":"est","link":"https://disqus.com/by/zxn0"}

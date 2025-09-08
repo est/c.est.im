@@ -1,0 +1,5 @@
+{"at":"2024-08-23T10:08:13Z","content":"我也给 RSS feed 套了一层，但是修改起来的确是糟心。","name":"dimlau","link":"https://disqus.com/by/dimlau"}
+{"at":"2024-08-25T13:34:47Z","content":"我记得流行 RSS 烧制服务那阵儿，用浏览器直接打开订阅链接，有些服务平台提供的是一个带样式的预览页面。","name":"Dallas Lu","link":"https://disqus.com/by/dallaslu"}
+{"at":"2024-08-30T13:51:31Z","content":"这两天意外发现一篇文章：  https://lepture.com/en/2019/rss-style-with-xsl ","name":"Dallas Lu","link":"https://disqus.com/by/dallaslu"}
+{"at":"2024-09-01T03:08:08Z","content":"我理解的是，rss，sitemap这种主要作用是喂机器爬虫，不过现代爬虫已经可以轻松理解各种web。rss更多是提供了一个聚合接口，语义功能更弱了。虽然可以有很多字段，但用的最多的也就标题，时间，摘要这三个。","name":"flashlab","link":"https://disqus.com/by/flashlab"}
+{"at":"2024-09-05T01:32:42Z","content":"主要是静态站，用rss来保存数据比较方便。比如你存一堆 html ，不能一个地方改样式批量用到别的html。rss 里就只有纯数据，数据和样式彻底分离。","name":"est","link":"https://disqus.com/by/zxn0"}

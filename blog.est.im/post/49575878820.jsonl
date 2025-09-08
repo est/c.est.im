@@ -1,0 +1,4 @@
+{"at":"2013-05-04T12:36:24Z","content":"《什么是数学》","name":"焜 邱","link":"https://disqus.com/by/disqus_jM0lflFG69"}
+{"at":"2013-05-04T23:44:46Z","content":"np 问题在脱离input size / dimension下讨论是没有什么特别大的意义的吧。这个方法如果能够在input size很大的情况下给出near optimization solution才能说明他的有用吧","name":"james"}
+{"at":"2013-05-05T02:31:21Z","content":"额。。。有点怀疑你是否看过视频。。。size成千上万也是可以得到解的吧。只不过错误解的情况也很多，哈哈。因为毕竟这只是肥皂水。。。。。。","name":"est","link":"https://disqus.com/by/zxn0"}
+{"at":"2013-05-06T20:21:12Z","content":"呵呵我的确是没太认真看被发现了不过看到它这个方法在n=4的时候也可能会落到local optimal里面，就有点怀疑他在大input时候的效率了","name":"James"}

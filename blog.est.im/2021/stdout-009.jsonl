@@ -1,0 +1,4 @@
+{"at":"2021-07-05T09:00:33Z","content":"但是这个玩意就没有个点儿固定下来？","name":"khsing"}
+{"at":"2021-07-06T14:24:51Z","content":"啥？需要重启继续生效么？ /etc/sysctl.conf 。。我补充下。。。","name":"est","link":"https://disqus.com/by/zxn0"}
+{"at":"2021-07-29T08:39:37Z","content":"sudo cat /etc/sysctl.conf\ncat: /etc/sysctl.conf: No such file or directorymacos 11 下没有这个文件吗","name":"Yu"}
+{"at":"2021-09-21T14:25:12Z","content":"啊。还真的被移动了。 /Users/Shared/Relocated Items/Configuration/private/etc/sysctl.conf","name":"est","link":"https://disqus.com/by/zxn0"}

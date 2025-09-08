@@ -1,0 +1,2 @@
+{"at":"2013-03-12T04:06:12Z","content":"Python 3 version: import http.server; http.server.BaseHTTPRequestHandler.address_string = lambda x:x.client_address[0]","name":"yes"}
+{"at":"2014-06-13T09:56:13Z","content":"Thank you very much! I agree it's stupid to do reverse DNS.","name":"Martin","link":"https://disqus.com/by/Kixunil"}

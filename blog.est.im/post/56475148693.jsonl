@@ -1,0 +1,9 @@
+{"at":"2013-07-27T04:21:54Z","content":"真jb绕，谷歌自己还要SoC厂商谈判。\n但是Android不是开源的吗，为什么OEM厂商不能直接用开源的代码？","name":"haohaolee","link":"https://disqus.com/by/haohaolee"}
+{"at":"2013-07-28T11:08:13Z","content":"这个很好理解，比方说，Windows开源，不代表nVidia的显卡驱动开源。","name":"est","link":"https://disqus.com/by/zxn0"}
+{"at":"2013-07-28T14:47:06Z","content":"那像CyanogenMod这种，驱动也得依赖BSP罗？","name":"haohaolee","link":"https://disqus.com/by/haohaolee"}
+{"at":"2013-07-30T05:19:55Z","content":"所以是推荐买三星了？。。。","name":"fivestone","link":"https://disqus.com/by/fivestone"}
+{"at":"2013-08-01T09:32:00Z","content":"CyanogenMod是自己撸的驱动，所以支持的机型有限。一小部分机型，通过逆向出来的CM质量非常差，很多功能比如相机蓝牙没法用。 这里  http://www.slideshare.net/gxben/as-2013-jelly-bean-device-porting-walkthrough  第九页","name":"est","link":"https://disqus.com/by/zxn0"}
+{"at":"2013-08-01T14:39:16Z","content":"谢。又长姿势了","name":"haohaolee","link":"https://disqus.com/by/haohaolee"}
+{"at":"2013-08-07T07:00:39Z","content":"高通无良！为何 Nexus S 后来不能升级了？","name":"ppip","link":"https://disqus.com/by/ppip"}
+{"at":"2013-09-15T00:16:22Z","content":"嵌入式本来就是BSP为王，BSP针对不同的硬件就得重新设计，这个就是嵌入式和x86最大的区别，除非山寨使用统一的方案\n因此使用任何一家的SoC都会面临BSP受限的问题，如今三星和Apple是可以自己完全实现，其他家选择高通不就是看高通的SoC做得足够好么？\n享受到了出货的快捷必然就会带来第三方SoC升级的阻扰，这是嵌入式设备厂商都需要考虑的事情，合约都写得很清楚的。\n所以，如果海信EG900不能升级JB，我不觉得高通有什么错，厂商必须在销售的时候有义务告知用户基于第三方SoC所以升级不确定。","name":"othercat","link":"https://disqus.com/by/othercat"}
+{"at":"2013-09-15T00:18:37Z","content":"Android的BSP部分是不开源的，只有硬件抽象层以上才开源。至于x86的系统开源和Android开源是两码事，因为x86本来底层硬件框架就是固定的，而嵌入式不同硬件一定要更改，因此这个比方我觉得不合适。","name":"othercat","link":"https://disqus.com/by/othercat"}

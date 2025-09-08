@@ -1,0 +1,1 @@
+{"at":"2025-05-15T02:05:31Z","content":"如果要显示天干地支年份，可以这样写:\ntoLocaleString('zh-CN-u-ca-chinese',{year:'numeric',month:'numeric'});\n显示结果: \"2025乙巳年闰六月\"\n但不能加day了。加上后天干地支又没了。\njs库的实现肯定有问题，year, month,day会相互影响。","name":"tpu"}

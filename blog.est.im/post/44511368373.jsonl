@@ -1,0 +1,4 @@
+{"at":"2013-03-04T06:58:01Z","content":"asio+boost 是集团军作战，可惜 performance 比较还是个未知数\n所谓的 Unicode 改进是个啥意思，难道不是某个 Known Encoding？","name":"haohaolee","link":"https://disqus.com/by/haohaolee"}
+{"at":"2013-03-04T08:52:59Z","content":"Unicode那里怎么有GB18030的既视感...EDIT: 理解错了，看了PEP393，不是变长的编码方式，而是根据unicode字符串内容按照不同的方法存放（纯ASCII就用char array；ucs2放得下就用ucs2；再次用ucs4）","name":"Timon Wong","link":"https://disqus.com/by/timonwong"}
+{"at":"2013-03-04T10:48:48Z","content":"py3k以前有个脑残的设定就是默认字符串就是unicode搞的很多二进制网路协议处理起来飞JB麻烦。py3k允许显式声明unicode了。","name":"est","link":"https://disqus.com/by/zxn0"}
+{"at":"2013-03-04T10:49:46Z","content":"嗯。python又发明了一个解决问题的标准   http://xkcd.com/927/ ","name":"est","link":"https://disqus.com/by/zxn0"}

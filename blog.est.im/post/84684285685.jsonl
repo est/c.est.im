@@ -1,0 +1,4 @@
+{"at":"2014-05-05T05:32:15Z","content":"python sentence[::-1]?","name":"红领巾"}
+{"at":"2014-07-07T07:35:08Z","content":"不可能，普通 JavaScript 都不用写成这样子。","name":"blacktulip","link":"https://disqus.com/by/btpcn"}
+{"at":"2014-07-07T08:50:15Z","content":"这就全反转了","name":"Lynn","link":"https://disqus.com/by/openapi"}
+{"at":"2014-07-07T08:53:08Z","content":"sentence.split(\" \").reverse().join(\" \")","name":"Lynn","link":"https://disqus.com/by/openapi"}
