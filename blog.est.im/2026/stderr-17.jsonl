@@ -3,3 +3,4 @@
 {"name":"Baiyssy","link":"","at":"2026-03-05T14:43:26.721Z","content":"多数程序代码还是很抽象的。要说现实关联，物理化学方程、工程的计算显然更直接。\n人总是倾向于高估自己熟悉的东西，这很正常。"}
 {"name":"est","link":"/","at":"2026-03-05T15:09:27.144Z","content":"@Baiyssy \n\n你也可以做个deep research 问问为啥代码让AI学会了长链条CoT 。或者尝试反驳"}
 {"name":"est","link":"/","at":"2026-03-05T15:20:10.523Z","content":"从我之前的聊天记录里摘了一些：\n\nmeta和ucsd的研究：https://aclanthology.org/2025.emnlp-main.130.pdf\n\nadding code during pretraining boosts general reasoning abilities\n\nhttps://arxiv.org/abs/2408.10914\n\ncode is a critical building block for generalization far beyond coding tasks \n\n\n物理化学结论呢，很多是从实验里来的，并没有「思维链」上的长距离因果性。"}
+{"name":"est","link":"/","at":"2026-03-05T15:23:35.369Z","content":"Language Models of Code are Few-Shot Commonsense Learners\n\nhttps://arxiv.org/abs/2210.07128\n\n这个都是2022年的研究了，往LLM投喂代码能提智，都是显学了。。。\n\n其实也能理解，不讲道理，没逻辑的代码，在过去网上不多。。。"}
