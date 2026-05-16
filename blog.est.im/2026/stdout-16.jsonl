@@ -1,1 +1,2 @@
 {"name":"Baiyssy","link":"@baiyssy@mastodon.social","at":"2026-05-15T12:54:24.537Z","content":"这个有意思！不过貌似时区不对？"}
+{"name":"est","link":"/","at":"2026-05-16T09:35:45.646Z","content":"@Baiyssy\n\n默认时区应该是CF根据你IP归属地来的。我也考虑了这一点，支持人工指定时区\n\nhttps://t.est.im/clock.svg?tz=UTC\nhttps://t.est.im/clock.svg?tz=asia/shanghai\n\n也可以指定任意时间\n\nhttps://t.est.im/clock.svg?t=11:22"}
